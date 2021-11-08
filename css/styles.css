@@ -1,0 +1,97 @@
+/* colors: #7286A8 #284475 #8CD3DB #E0CEC7 #A86156 #CAD6E8*/
+body {
+  background-color: #284475;
+}
+
+h1 {
+  font-family: "Poiret One";
+}
+
+h3 {
+  font-family: "Raleway";
+}
+
+p {
+  font-family: "Raleway";
+  font-size: 1.25rem;
+}
+
+.nav-link, .footer {
+  color: #CAD6E8;
+  font-family: "Raleway"
+}
+
+.nav-link:hover {
+  color: #E0CEC7;
+}
+
+#introduction {
+  color: #CAD6E8;
+  padding-left: 15%;
+}
+
+#content {
+  background-color: #E0CEC7;
+  color: #284475;
+}
+
+.intro-div {
+  padding-top: 150px;
+  position: absolute;
+}
+
+.name {
+  margin-bottom: 80px;
+  font-size: 6rem;
+}
+
+.mountain-image {
+  padding-top: 150px;
+}
+
+.dog-image {
+  width: 100%;
+}
+
+.logo-image {
+  width: 100%;
+  padding: 0 16%;
+}
+.title {
+  padding: 20px 7% 30px 7%;
+  font-size: 4rem;
+}
+
+.who-i-am-text {
+  padding: 0 0 0 8%;
+}
+
+p.who-i-am-text {
+  padding: 30px 7% 0 2%;
+}
+
+.what-i-do {
+  text-align: right;
+}
+
+.what-i-do-text {
+  text-align: left;
+  padding: 2% 0 0 7%;
+}
+
+.fa-robot, .fa-laptop-code, .fa-sitemap {
+  color: #A86156;
+}
+
+.where-ive-been {
+  padding-bottom: 40px;
+}
+
+.slide-label {
+  font-family: "Poiret One";
+  font-size: 3rem;
+}
+
+.slide-text {
+  font-family: "Raleway";
+}
